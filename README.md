@@ -1,6 +1,6 @@
 # Spectre
 
-SPECTRE; Watchguard, Avrestor, pfSense ve Fortinet firewall cihazları ile uyumlu olarak çalışabilen;
+SPECTRE; Watchguard, Avrestor, pfSense (yakın zamanda Fortinet) firewall cihazları ile uyumlu olarak çalışabilen;
 Python, QML, QT, PySide temelleri üzerinde geliştirdiğim Windows uyumlu masaüstü programıdır.
 
 SPECTRE; ağ trafiğini hem canlı şekilde izlemeye olanak tanırken hem de trafiği analiz edip anlamlandırarak raporlar sunmaktadır.
